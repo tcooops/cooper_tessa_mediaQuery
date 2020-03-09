@@ -5,7 +5,7 @@
 ### Requirements
 Use a modern browser
 
-#3# Built With
+### Built With
 HTML
 CSS
 JavaScript
